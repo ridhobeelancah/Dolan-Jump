@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dolan Jump", "Assembly-CSharp.csproj", "{FB78A8A1-F0CC-1AA0-75D2-BA6329D756CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB78A8A1-F0CC-1AA0-75D2-BA6329D756CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB78A8A1-F0CC-1AA0-75D2-BA6329D756CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB78A8A1-F0CC-1AA0-75D2-BA6329D756CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB78A8A1-F0CC-1AA0-75D2-BA6329D756CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
